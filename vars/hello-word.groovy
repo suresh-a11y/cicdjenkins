@@ -1,6 +1,5 @@
 def test() {
- 
- println "hello world"
+ sh "git --version"
 }
 
 test()
