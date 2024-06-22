@@ -1,5 +1,3 @@
-def test() {
- sh "git --version"
+def call(){
+ sh "echo hi from devops"
 }
-
-test()
