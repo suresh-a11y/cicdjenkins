@@ -1,3 +1,3 @@
-def call(){
+def call() {
  sh "echo hi from devops"
 }
