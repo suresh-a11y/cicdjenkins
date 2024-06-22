@@ -92,3 +92,9 @@ println employ
 println employ.name
 println employ['name']
 println employ.get('age')
+
+
+/*String filePath = "C:/Users/lenovo/Desktop/cicdjenkins/cicdjenkins/vars/test.txt"
+File myfile = new File(filePath)
+
+println myfile.txt */
