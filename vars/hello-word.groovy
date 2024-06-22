@@ -1,1 +1,6 @@
-print 'hello'
+def test() {
+ 
+ println "hello world"
+}
+
+test()
